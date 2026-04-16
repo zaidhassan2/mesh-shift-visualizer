@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/mesh-shift-visualizer/static/js/main.db1b24aa.js",
+    "index.html": "/mesh-shift-visualizer/index.html",
+    "main.db1b24aa.js.map": "/mesh-shift-visualizer/static/js/main.db1b24aa.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.db1b24aa.js"
+  ]
+}
